@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'LinkTr.ee',
-      link: 'https://linktr.ee/EternallyUndyingSheep',
+      name: '',
+      link: '',
     },
   ],
 
